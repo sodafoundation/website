@@ -1,5 +1,5 @@
 # website
-All that for opensds website (opensds.io)
+All that is needed for the SODA Foundation website: [sodafoundation.io](https://sodafoundation.io)
 
 
 ## Purpose
