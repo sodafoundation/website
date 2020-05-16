@@ -1,9 +1,35 @@
 # website
-All that is needed for the SODA Foundation website: [sodafoundation.io](https://sodafoundation.io)
+<img src="https://sodafoundation.io/wp-content/uploads/2020/01/SODA_logo_outline_color_800x800.png" width="200" height="200">
+
+## Introduction
+
+This repo contains all the related files and information for [SODA Foundation Website](https://sodafoundation.io/)
+
+## Support and Issues
+You want to contribute to SODA Website?
+You can raise issues at : 
+[https://github.com/sodafoundation/website/issues](https://github.com/sodafoundation/website/issues)
 
 
-## Purpose
-1. Add all source code, scripts, images...
-2. Add all design, and other related information
-3. Add documentation related to website
-4. Track all issues related to website
+## Project Community
+
+[https://sodafoundation.io/slack/](https://sodafoundation.io/slack/)
+
+## How to contribute to this project?
+
+Join [https://sodafoundation.io/slack/](https://sodafoundation.io/slack/) and share your interest in the ‘general’ channel
+
+Checkout [https://github.com/sodafoundation/website/issues](https://github.com/sodafoundation/website/issues) labelled with ‘good first issue’ or ‘help needed’ or ‘help wanted’ or ‘StartMyContribution’ or ‘SMC’
+
+
+## Join SODA Foundation
+
+Website : [https://sodafoundation.io](https://sodafoundation.io/)
+
+Slack  : [https://sodafoundation.io/slack/](https://sodafoundation.io/slack/)
+
+Twitter  : [@sodafoundation](https://twitter.com/sodafoundation)
+
+Mailinglist  : [https://lists.sodafoundation.io](https://lists.sodafoundation.io/)
+
+
