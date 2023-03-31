@@ -5,14 +5,14 @@
 
 This repo contains all the related files and information for [SODA Foundation Website](https://sodafoundation.io/)
 
-## Support and Issues
+## Support and Issues kwjbcfwibkwbvkjwbvfkw bf
 You want to contribute to SODA Website?
 You can raise issues at : 
 [https://github.com/sodafoundation/website/issues](https://github.com/sodafoundation/website/issues)
 
 
 ## Project Community
-
+cwfwlmvbkwjevbklwbvkwfe
 [https://sodafoundation.io/slack/](https://sodafoundation.io/slack/)
 
 ## How to contribute to this project?
@@ -23,12 +23,12 @@ Checkout [https://github.com/sodafoundation/website/issues](https://github.com/s
 
 
 ## Join SODA Foundation
-
-Website : [https://sodafoundation.io](https://sodafoundation.io/)
+wv kwbvkjewbvklew
+Website : [https://sodafoundation.iwcwc](https://sodafoundation.io/)
 
 Slack  : [https://sodafoundation.io/slack/](https://sodafoundation.io/slack/)
 
-Twitter  : [@sodafoundation](https://twitter.com/sodafoundation)
+Twitter  : [@sodafoundation](https://twittesdvcmskl,skdv r.com/sodafoundation)
 
 Mailinglist  : [https://lists.sodafoundation.io](https://lists.sodafoundation.io/)
 
